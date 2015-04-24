@@ -13,6 +13,7 @@
 		AC6DD8A71AEA50F80020F404 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC6DD8A61AEA50F80020F404 /* Images.xcassets */; };
 		AC6DD8AA1AEA50F80020F404 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC6DD8A81AEA50F80020F404 /* LaunchScreen.xib */; };
 		AC6DD8B61AEA50F80020F404 /* count_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DD8B51AEA50F80020F404 /* count_swiftTests.swift */; };
+		AC6DD8C01AEA51F40020F404 /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = AC6DD8BF1AEA51F40020F404 /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		AC6DD8AF1AEA50F80020F404 /* count swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "count swiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6DD8B41AEA50F80020F404 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC6DD8B51AEA50F80020F404 /* count_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = count_swiftTests.swift; sourceTree = "<group>"; };
+		AC6DD8BF1AEA51F40020F404 /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = haikei.png; path = ../../haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				AC6DD89F1AEA50F80020F404 /* AppDelegate.swift */,
 				AC6DD8A11AEA50F80020F404 /* ViewController.swift */,
+				AC6DD8BF1AEA51F40020F404 /* haikei.png */,
 				AC6DD8A31AEA50F80020F404 /* Main.storyboard */,
 				AC6DD8A61AEA50F80020F404 /* Images.xcassets */,
 				AC6DD8A81AEA50F80020F404 /* LaunchScreen.xib */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC6DD8C01AEA51F40020F404 /* haikei.png in Resources */,
 				AC6DD8A51AEA50F80020F404 /* Main.storyboard in Resources */,
 				AC6DD8AA1AEA50F80020F404 /* LaunchScreen.xib in Resources */,
 				AC6DD8A71AEA50F80020F404 /* Images.xcassets in Resources */,
